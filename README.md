@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
-<h3 align="center">UEMK || IIT-G Intern || Biotechnology Student || Computational Biology Enthusiast ||Frontend Web Developer || Project Developer in Computational BioTechnology || ML Developer</h3>
+<h3 align="center">UEMK || Ex-IIT-G Intern || Biotechnology Student || Computational Biology Enthusiast ||Frontend Web Developer || Project Developer in Computational BioTechnology || ML Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshiray25&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshiray25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajarshiray25" alt="rajarshiray25" /></a> </p>
 
-- 🔭 I’m currently working on **Molecular Dynamics || Machine Learning**
+- 🔭 I’m currently working on **Bioinformatics Research**
 
-- 🌱 I’m currently learning **Machine Learning || MD Simulations || ReactJS || Python || C**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning || Network Biology || Computational Biology**
 
-- 🤝 I’m looking for help with **Molecular Dynamic Simulations**
+- 🤝 I’m looking for help with **Research Pipelines for Computational Biology**
 
 - 💬 Ask me about **Computational Biology || Python || C || Web Development**
 
 - 📫 How to reach me **rayrajarshi9@gmail.com**
 
-- ⚡ Fun fact **Just a guy trying to simulate proteins.**
+- ⚡ Fun fact **An Introvert Researcher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
