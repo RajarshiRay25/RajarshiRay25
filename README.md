@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
 <h3 align="center">UEMK || Ex-IIT-G Intern || Biotechnology Student || Computational Biology Enthusiast ||Frontend Web Developer || Project Developer in Computational BioTechnology || ML Developer</h3>
-<img align="center" alt="coding" width="400"  src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 <img align="right" alt="coding" width="400"  src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajarshiray25&label=Profile%20views&color=0e75b6&style=flat" alt="rajarshiray25" /> </p>
 <br>
