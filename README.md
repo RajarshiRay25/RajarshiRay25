@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Bioinformatics Research**
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning || Network Biology || Computational Biology**
+- 🌱 I’m currently learning **Network Pharmacology and Computational Toxicogenomics**
 
 - 🤝 I’m looking for help with **Research Pipelines for Computational Biology**
 
-- 💬 Ask me about **Computational Biology || Python || C || Web Development**
+- 💬 Ask me about **Bioinformatics**
 
 - 📫 How to reach me **rayrajarshi9@gmail.com**
 
