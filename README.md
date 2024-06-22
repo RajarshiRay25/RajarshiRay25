@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)]()
+[![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)]()
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
 <h3 align="center">UEMK || Ex-IIT-G Intern || Biotechnology Student || Computational Biology Enthusiast ||Frontend Web Developer || Project Developer in Computational BioTechnology || ML Developer</h3>
 <img align="right" alt="coding" width="400"  src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
