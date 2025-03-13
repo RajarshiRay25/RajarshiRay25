@@ -2,21 +2,25 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
 <h3 align="center"> Researcher | Tampere University | UEMK | Ex-IIT Guwahati Intern | Bioinformatics | Computational Biology | Network Pharmacology | ML Developer </h3>
 
-<p align="right">
-  <img alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
-</p>
----
-
-### 🔬 **About Me**
-- 🔭 Currently working on **Network Pharmacology & Computational Toxicogenomics**
-- 🧬 Exploring **TNF-alpha, Cytokine Release Syndrome, and Drug-Target Interactions**
-- 📊 Building **QSAR models & AI-driven cheminformatics tools**
-- 🤝 Looking for collaborations on **Multi-Omics Data Integration and Drug Repurposing**
-- 💬 Ask me about **Bioinformatics, Cheminformatics, and Computational Toxicology**
-- 📩 Reach me at **rayrajarshi9@gmail.com**
-- ⚡ Fun fact: **An Introvert Who Loves Complex Datasets!**
-
----
+<table>
+  <tr>
+    <td>
+      <h3>🔬 About Me</h3>
+      <ul>
+        <li>🔭 Currently working on <b>Network Pharmacology & Computational Toxicogenomics</b></li>
+        <li>🧬 Exploring <b>TNF-alpha, Cytokine Release Syndrome, and Drug-Target Interactions</b></li>
+        <li>📊 Building <b>QSAR models & AI-driven cheminformatics tools</b></li>
+        <li>🤝 Looking for collaborations on <b>Multi-Omics Data Integration and Drug Repurposing</b></li>
+        <li>💬 Ask me about <b>Bioinformatics, Cheminformatics, and Computational Toxicology</b></li>
+        <li>📩 Reach me at <b>rayrajarshi9@gmail.com</b></li>
+        <li>⚡ Fun fact: <b>An Introvert Who Loves Complex Datasets!</b></li>
+      </ul>
+    </td>
+    <td>
+      <img alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
+    </td>
+  </tr>
+</table>
 
 ### 🛠 **Skills & Tools**
 #### 🧪 **Bioinformatics & Drug Discovery**
