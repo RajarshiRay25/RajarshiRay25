@@ -2,25 +2,23 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
 <h3 align="center"> Researcher | Tampere University | UEMK | Ex-IIT Guwahati Intern | Bioinformatics | Computational Biology | Network Pharmacology | ML Developer </h3>
 
-<table>
-  <tr>
-    <td>
-      <h3>🔬 About Me</h3>
-      <ul>
-        <li>🔭 Currently working on <b>Network Pharmacology & Computational Toxicogenomics</b></li>
-        <li>🧬 Exploring <b>TNF-alpha, Cytokine Release Syndrome, and Drug-Target Interactions</b></li>
-        <li>📊 Building <b>QSAR models & AI-driven cheminformatics tools</b></li>
-        <li>🤝 Looking for collaborations on <b>Multi-Omics Data Integration and Drug Repurposing</b></li>
-        <li>💬 Ask me about <b>Bioinformatics, Cheminformatics, and Computational Toxicology</b></li>
-        <li>📩 Reach me at <b>rayrajarshi9@gmail.com</b></li>
-        <li>⚡ Fun fact: <b>An Introvert Who Loves Complex Datasets!</b></li>
-      </ul>
-    </td>
-    <td>
-      <img alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>🔬 About Me</h3>
+    <ul>
+      <li>🔭 Currently working on <b>Network Pharmacology & Computational Toxicogenomics</b></li>
+      <li>🧬 Exploring <b>TNF-alpha, Cytokine Release Syndrome, and Drug-Target Interactions</b></li>
+      <li>📊 Building <b>QSAR models & AI-driven cheminformatics tools</b></li>
+      <li>🤝 Looking for collaborations on <b>Multi-Omics Data Integration and Drug Repurposing</b></li>
+      <li>💬 Ask me about <b>Bioinformatics, Cheminformatics, and Computational Toxicology</b></li>
+      <li>📩 Reach me at <b>rayrajarshi9@gmail.com</b></li>
+      <li>⚡ Fun fact: <b>An Introvert Who Loves Complex Datasets!</b></li>
+    </ul>
+  </div>
+  <div>
+    <img alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
+  </div>
+</div>
 
 ### 🛠 **Skills & Tools**
 #### 🧪 **Bioinformatics & Drug Discovery**
