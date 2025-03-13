@@ -1,4 +1,7 @@
-[![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)]()
+<p align="center">
+  <img src="https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
 <h3 align="center"> Researcher | Tampere University | UEMK | Ex-IIT Guwahati Intern | Bioinformatics | Computational Biology | Network Pharmacology | ML Developer </h3>
 
