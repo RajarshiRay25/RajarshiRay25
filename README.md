@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
 <h3 align="center"> Researcher | Tampere University | UEMK | Ex-IIT Guwahati Intern | Bioinformatics | Computational Biology | Network Pharmacology | ML Developer </h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
-
+<p align="center">
+  <img alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
+</p>
 ---
 
 ### 🔬 **About Me**
