@@ -56,9 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rajarshiray25&show_icons=true&theme=radical" alt="GitHub Stats" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajarshiray25&layout=compact&theme=radical" alt="Top Languages" width="42%">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajarshiray25&theme=radical" alt="GitHub Streak" width="50%">
-</p>
 
 ---
 
