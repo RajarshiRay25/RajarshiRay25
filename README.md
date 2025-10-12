@@ -9,9 +9,9 @@
   <div>
     <h3>🔬 About Me</h3>
     <ul>
-      <li>🔭 Currently working on <b>Network Pharmacology & Computational Toxicogenomics</b></li>
-      <li>🧬 Exploring <b>TNF-alpha, Cytokine Release Syndrome, and Drug-Target Interactions</b></li>
-      <li>📊 Building <b>QSAR models & AI-driven cheminformatics tools</b></li>
+      <li>🔭 Currently working on <b>Medical Device Regulation Engineering</b>, <b> Bioinformatics </b></li>
+      <li>🧬 Exploring <b>MDR Engineering</b>, <b>Genomics Sequencing Analysis</b></li>
+      <li>📊 Building <b>AI Driven Tools for Bioinformatics Analysis</b></li>
       <li>🤝 Looking for collaborations on <b>Multi-Omics Data Integration and Drug Repurposing</b></li>
       <li>💬 Ask me about <b>Bioinformatics, Cheminformatics, and Computational Toxicology</b></li>
       <li>📩 Reach me at <b>rayrajarshi9@gmail.com</b></li>
