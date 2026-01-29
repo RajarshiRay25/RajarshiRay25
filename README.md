@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rajarshi Ray</h1>
-<h3 align="center"> Researcher | Tampere University | UEMK | Ex-IIT Guwahati Intern | Bioinformatics | Computational Biology | Network Pharmacology | ML Developer </h3>
+<h3 align="center"> Biomedical Engineer | Tampere University'27 | UEMK'24 | Bioinformatics Researcher | Computational Biology | Network Pharmacology | ML Developer </h3>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
